@@ -1,9 +1,9 @@
-package gourlshortenercsc325
+package main
 
 import (
+	"Go_URL_Shortener_CSC325/handlers"
 	"fmt"
 	"net/http"
-	"Go_URL_Shortener_CSC325/handlers"
 )
 
 func main() {
